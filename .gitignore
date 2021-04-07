@@ -1,0 +1,6 @@
+SSEMultipartUpload/bin
+SSEMultipartUpload/obj
+.idea
+*.DotSettings.user
+mnt/CAs
+*.DS_Store
